@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-- Traduzir uma parte da documentação do Javascript de Português para Japonês. 
+- Traduzir uma parte da documentação do Javascript de Japonês para Português. 
 
 ### Data dos encontros
 
